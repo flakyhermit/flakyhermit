@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I code, tinker and build stuff.
+
+In my free time, I like looking at stats and making cool websites.
+
+I'm an embedded systems engineer by profession. I'm currently learning Rust. 
