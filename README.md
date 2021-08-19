@@ -1,5 +1,8 @@
-### Howdy!
-
+I code, tinker and build stuff.  
+```
+✉️ flakyhermit@protonmail.ch
+🗒️ jeweljames.com/blog
+```
 <!--
 **flakyhermit/flakyhermit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I code, tinker and build stuff.
-
-In my free time, I like looking at stats and making cool websites.
-
-I'm an embedded systems engineer by profession. I'm currently learning Rust. 
